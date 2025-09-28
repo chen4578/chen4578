@@ -1,4 +1,4 @@
-## Hello
+## Hello!
 
 My name is Jiali Chen, and I am a third-year undergraduate student at the University of California (UCLA). I am majoring in Electrical Engineering with a minor in Data Science Engineering.
 
